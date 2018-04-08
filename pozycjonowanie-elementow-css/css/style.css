@@ -17,4 +17,12 @@ body {
     background-color: red;
     width: 600px;
     height: 100px;
+    
+    position: absolute;
+    top: 50px;
+}
+#trzeci {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
 }
