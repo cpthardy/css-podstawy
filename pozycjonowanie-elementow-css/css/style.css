@@ -6,6 +6,9 @@ body {
     width: 600px;
     height: 100px;
     margin-bottom: 10px;
+    position: relative;
+        top: 40px;
+        left: 40px;
 }
 
 #drugi {
