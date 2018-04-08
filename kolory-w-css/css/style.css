@@ -1,0 +1,24 @@
+body {
+    background-color: beige;
+    
+}
+div {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+#predefiniowane {
+    background-color: darkorchid;
+}
+#hex {
+    background-color: #44dd99;
+}
+#hex-skrocony {
+    background-color: #4d9
+}
+#rgb {
+    background-color: rgb(50, 10, 210);
+}
+#rgba {
+    background-color: rgba(50, 10, 210, 0.4);
+}
