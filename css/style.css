@@ -10,3 +10,9 @@ p {
 a, span, div {
     background-color: lime;
 }
+li > a {
+    background-color: goldenrod
+}
+ul a {
+    background-color: blue;
+}
