@@ -16,3 +16,17 @@ li > a {
 ul a {
     background-color: blue;
 }
+h1 + p {
+    color: pink;
+}
+h1 ~ p {
+    color: aqua;
+}
+
+ul#lista >li:not(.last) {
+    background-color: darkmagenta;
+}
+
+ul#lista >li:nth-child(3) {
+    background-color: beige;
+}
